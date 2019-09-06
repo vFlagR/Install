@@ -1,3 +1,4 @@
+gce_no_nvme
 8.7.5
 v8.6base
 ###########################-VERSIONS-PRIOR
